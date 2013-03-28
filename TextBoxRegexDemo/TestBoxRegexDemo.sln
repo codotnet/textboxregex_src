@@ -1,5 +1,5 @@
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBoxRegexDemo", "TestBoxRegexDemo.csproj", "{D9ECDF60-902B-4E96-8F1A-14E99336EB55}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxRegex", "..\TextBoxRegex\TextBoxRegex.csproj", "{681CB968-F774-489E-80C9-F8AE9E269BA4}"
