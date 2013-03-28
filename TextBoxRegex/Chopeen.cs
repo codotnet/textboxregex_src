@@ -16,7 +16,7 @@
 namespace Chopeen
 {
     internal class NamespaceDoc
-    {
+    { 
     }
 }
 #endif
